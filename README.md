@@ -1,1 +1,1 @@
-# laravel-manager
+# AdminKit
