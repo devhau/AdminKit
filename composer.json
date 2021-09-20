@@ -1,0 +1,15 @@
+{
+    "name": "Devhau/AdminKit",
+    "autoload": {
+        "psr-4": {
+            "Devhau\\AdminKit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nguyen Van Hau",
+            "email": "50167033+devhau@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
